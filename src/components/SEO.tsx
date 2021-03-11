@@ -16,7 +16,7 @@ export default function SEO({
   shouldIndexPage = true
 }: SEOProps) {
   const pageTitle = `${title} ${
-    !shouldExludeTitleSuffix ? '| DevCommerce' : ''
+    !shouldExludeTitleSuffix ? '| Maffei' : ''
   }`
 
   const pageImage = image

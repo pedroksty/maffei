@@ -11,8 +11,8 @@ export default function Home() {
         image="logo.png"
       />
 
-      <h1>ReactJS Structure</h1>
-      <p>A reactJS + Next.JS structure made by Pedro Henrique.</p>
+      <h1>Maffei by Pedro henrique</h1>
+      <p>Stay tuned for new updated content in the programming area</p>
 
     </Container>
   )
