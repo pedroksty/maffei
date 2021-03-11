@@ -6,8 +6,7 @@ export default function Home() {
     <Container>
 
       <SEO
-        title="ReactJS Structure"
-        shouldExludeTitleSuffix
+        title="Home"
         image="logo.png"
       />
 
